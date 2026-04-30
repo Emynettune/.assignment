@@ -1,0 +1,8 @@
+var bunnies = ['lucy', 'franklin', 'peter', 'pan', 'pamela', 'precious'];
+console.log(bunnies[5])
+
+bunnies.push('mario')
+
+bunnies.shift('lucy')
+
+bunnies.unshift('luigi')
